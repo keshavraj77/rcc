@@ -100,7 +100,7 @@ video {
   position: relative;
 }
 #page1 h1::before {
-  content: "LEARN. TO. SUCCED.";
+  content: "LEARN. TO. SUCCEED.";
   position: absolute;
   color: #000;
   top: -5px;
